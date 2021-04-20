@@ -21,7 +21,7 @@ Suporemos que o conjunto de vértices da árvore é `S = {1, 2, ..., n}`.
 ### Exemplos
 
 ```bash
-$ ./t1 << EOF
+$ ./t2 << EOF
   5
   1 1 2
 EOF
@@ -29,7 +29,7 @@ EOF
 ```
 
 ```bash
-$ ./t1 << EOF
+$ ./t2 << EOF
   8
   7 4 4 1 7 1
 EOF
